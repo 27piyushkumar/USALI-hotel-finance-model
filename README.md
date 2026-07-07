@@ -102,23 +102,6 @@ The model integrates operational planning, departmental reporting, journal entri
 
 ---
 
-## Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Power Query
-- Dynamic Named Ranges
-- Excel Tables
-- XLOOKUP
-- INDEX & MATCH
-- SUMIFS
-- IF / IFS
-- Data Validation
-- Conditional Formatting
-
----
-
 ## Purpose
 
 This project was developed as a portfolio project to strengthen practical knowledge of hotel finance, accounting, financial reporting, and the USALI reporting framework.
