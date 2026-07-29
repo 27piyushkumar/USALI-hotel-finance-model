@@ -158,7 +158,8 @@ If you found this project interesting, feel free to explore the workbook, review
 **Piyush Kumar**
 
 LinkedIn:
-https://www.linkedin.com/in/27piyushkumar
+www.linkedin.com/in/piyushkumar-in
+
 
 ---
 
